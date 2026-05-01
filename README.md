@@ -188,3 +188,8 @@ Deny wins over allow. Patterns inside `(...)` use [picomatch](https://github.com
 ## Contributing
 
 Found a missed file pattern, a better approach, or want to add support for another tool? [Open an issue](https://github.com/chuckreynolds/claude-secure/issues).
+
+
+---
+
+_The `preferences.md` idea is from [Tips for safer Claude coding](https://anatolinicolae.com/tips-for-safer-claude-coding/) by Anatoli Nicolae._
