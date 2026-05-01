@@ -192,4 +192,4 @@ Found a missed file pattern, a better approach, or want to add support for anoth
 
 ---
 
-_The `preferences.md` idea is from [Tips for safer Claude coding](https://anatolinicolae.com/tips-for-safer-claude-coding/) by Anatoli Nicolae._
+_The `./claude/rules/preferences.md` idea is from [Tips for safer Claude coding](https://anatolinicolae.com/tips-for-safer-claude-coding/) by Anatoli Nicolae._
